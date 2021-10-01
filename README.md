@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anmol Agrawal</h1>
 <h3 align="center">A passionate Competitive Coder from India</h3>
 
-- 🔭 I’m currently working on **CP**
+- 🔭 I’m currently doing **CP**
 
 - 📫 How to reach me **me.ubanmol@gmail.com**
 
